@@ -1,0 +1,15 @@
+/Users/tobiasengberg/Projects/TextTools/bin/Debug/net5.0/TextTools.deps.json
+/Users/tobiasengberg/Projects/TextTools/bin/Debug/net5.0/TextTools.runtimeconfig.json
+/Users/tobiasengberg/Projects/TextTools/bin/Debug/net5.0/TextTools.runtimeconfig.dev.json
+/Users/tobiasengberg/Projects/TextTools/bin/Debug/net5.0/TextTools.dll
+/Users/tobiasengberg/Projects/TextTools/bin/Debug/net5.0/ref/TextTools.dll
+/Users/tobiasengberg/Projects/TextTools/bin/Debug/net5.0/TextTools.pdb
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.AssemblyInfoInputs.cache
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.AssemblyInfo.cs
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.dll
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/ref/TextTools.dll
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.pdb
+/Users/tobiasengberg/Projects/TextTools/obj/Debug/net5.0/TextTools.genruntimeconfig.cache
