@@ -11,7 +11,8 @@ namespace TextTools
             string transformedText = textualContent
                 .Fractions()
                 .Dashes()
-                .PostalNumber();
+                .PostalNumber()
+                .CitationMarks();
             Console.WriteLine(transformedText);
             Console.ReadKey();
         }
@@ -33,8 +34,15 @@ namespace TextTools
 
         public static string PostalNumber(this string text)
         {            
-            return new Regex(@"\b[0 - 9]{ 7}![0 - 9]")
-                .Replace(text, m => m.Value.Insert(2, " "));                     
+            return new Regex(@"/\b[0 - 9]{ 7}![0 - 9]/g")       // Selecting postal numbers
+                .Replace(text, m => m.Value
+                .Insert(2, " "));                     
+        }
+
+        public static string CitationMarks(this string text)
+        {
+            return text                                         // Citation with »
+                .Replace("\"", "\u00bb");
         }
     }
 }
